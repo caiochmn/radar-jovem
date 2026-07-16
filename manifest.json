@@ -1,0 +1,13 @@
+{
+  "name": "Radar Jovem — oportunidades pela sua idade",
+  "short_name": "Radar Jovem",
+  "description": "Concursos, olimpíadas, intercâmbios e bolsas com janela de idade — descubra antes que feche.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#131a10",
+  "theme_color": "#131a10",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
